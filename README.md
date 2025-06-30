@@ -16,11 +16,11 @@ Resumen de las herramientas que manejo en el día a día como QA.
 
 ### 🧪 Proyectos
 Ejemplo de proyecto realista con casos de prueba, reporte de errores y descripción general.  
-📂 [`/Proyectos/AgendamientoMedico-UXUI`](./Proyectos/AgendamientoMedico-UXUI)
+📂 [`/Proyectos/AgendamientoMedico-UXUI`](./Proyectos/AgendamientoMedicoUXUI)
 
 ### 📬 Contacto
 Formas de contacto y redes profesionales.  
-📂 [`/Contacto/Contacto.md`](./QAPortafolio/Contacto/Contacto.md)
+📂 [`/Contacto/Contacto.md`](./Contacto/Contacto.md)
 
 ---
 
