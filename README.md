@@ -8,7 +8,7 @@ Bienvenido a mi portafolio profesional como Analista de Calidad. Aquí encontrar
 
 ### 📘 Sobre mí
 Experiencia, perfil profesional y motivaciones como QA.  
-📂 [`/SobreMi/SobreMi.md`](./SobreMi/SobreMi.md)
+📂 [`/SobreMi/SobreMi.md`](.QAPortafolio/SobreMi/SobreMi.md)
 
 ### 🛠 Herramientas
 Resumen de las herramientas que manejo en el día a día como QA.  
