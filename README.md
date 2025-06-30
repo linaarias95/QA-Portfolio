@@ -20,7 +20,7 @@ Ejemplo de proyecto realista con casos de prueba, reporte de errores y descripci
 
 ### 📬 Contacto
 Formas de contacto y redes profesionales.  
-📂 [`/Contacto/Contacto.md`](./QAporfoli/QAPortafolio/Contacto/Contacto.md)
+📂 [`/Contacto/Contacto.md`](./QAporfolio/QAPortafolio/Contacto/Contacto.md)
 
 ---
 
